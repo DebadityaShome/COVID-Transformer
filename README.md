@@ -213,6 +213,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [forks-shield]: https://img.shields.io/github/forks/DebadityaShome/COVID-Transformer.svg?style=for-the-badge
 [forks-url]: https://github.com/DebadityaShome/COVID-Transformer/network/members
+[linked-search]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [stars-shield]: https://img.shields.io/github/stars/DebadityaShome/COVID-Transformer.svg?style=for-the-badge
 [stars-url]: https://github.com/DebadityaShome/COVID-Transformer/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
