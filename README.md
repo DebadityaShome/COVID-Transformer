@@ -1,4 +1,3 @@
-# COVID-Transformer
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -33,7 +32,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h1 align="center">COVID-Transformer</h1>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
